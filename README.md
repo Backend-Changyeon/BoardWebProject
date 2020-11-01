@@ -1,4 +1,4 @@
-# BoardWebProject_
+# BoardWebProject
 ## 마지막 수정
 * User, Board, Reply 데이터베이스 설계에서 FK, PK가 설정되어 있지 않았다.
   * User, Board, Reply, Message, View 데이터베이스 모두 다시 설게했다.
